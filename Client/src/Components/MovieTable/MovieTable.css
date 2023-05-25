@@ -1,0 +1,19 @@
+.OuterBoxSub{
+    width: 75rem;
+    height: 700p50REM;
+}
+
+.OuterBoxTable{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imageBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
